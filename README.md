@@ -1,1 +1,1 @@
-### -> *test*
+### -> Centered text <-

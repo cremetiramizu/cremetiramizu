@@ -1,3 +1,4 @@
+　<p align="center"><img src="https://komarev.com/ghpvc/?username=cremetiramizu&color=D48E50&label=branzylings" alt="Centered Image"> <br></p>
 <p align="center"><img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/de588991-c094-4c18-9145-4ebb5379deb0" /></p>
 ⠀⠀
 <p align="center">wwelcome to my github!!  ( ˶ˆ꒳ˆ˵ )</p>
